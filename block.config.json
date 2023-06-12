@@ -1,0 +1,24 @@
+{
+  "name": "testP2",
+  "type": "package",
+  "blockId": "WG4kl7ZOnVlEUkGRbRjy2",
+  "source": {
+    "ssh": "git@github.com:Digambaran/testp_arjun.git",
+    "https": "https://github.com/Digambaran/testp_arjun.git",
+    "branch": "block_testP2"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testP2_testP2_pack1": {
+      "directory": "testP2_testP2_pack1"
+    }
+  },
+  "version": "0.0.2",
+  "versionId": "sBpG1t6wCsyMKEt_1bGVF",
+  "variantOf": "sBpG1t6wCsyMKEt_1bGVF"
+}
