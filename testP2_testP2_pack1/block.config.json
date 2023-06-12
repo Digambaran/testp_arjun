@@ -1,0 +1,26 @@
+{
+  "blockId": "c5d_76LL9lW0YHYJ-adMX",
+  "name": "testP2_testP2_pack1",
+  "type": "package",
+  "source": {
+    "ssh": null,
+    "https": null,
+    "branch": "block_testP2_testP2_pack1"
+  },
+  "parentBlockIDs": [
+    "WG4kl7ZOnVlEUkGRbRjy2"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "dependencies": {
+    "testP2_testP2_func1": {
+      "directory": "testP2_testP2_func1"
+    }
+  },
+  "version": "0.0.2",
+  "versionId": "CtM-IzlMH7H6rT2lJMtEh",
+  "variantOf": "CtM-IzlMH7H6rT2lJMtEh"
+}
