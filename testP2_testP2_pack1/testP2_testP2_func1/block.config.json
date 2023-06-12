@@ -3,8 +3,8 @@
   "name": "testP2_testP2_func1",
   "type": "function",
   "source": {
-    "ssh": null,
-    "https": null,
+    "ssh": "git@github.com:Digambaran/testp_arjun.git",
+    "https": "https://github.com/Digambaran/testp_arjun.git",
     "branch": "block_testP2_testP2_func1"
   },
   "parentBlockIDs": [

@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "WG4kl7ZOnVlEUkGRbRjy2",
   "source": {
-    "ssh": null,
-    "https": null,
+    "ssh": "git@github.com:Digambaran/testp_arjun.git",
+    "https": "https://github.com/Digambaran/testp_arjun.git",
     "branch": "block_testP2"
   },
   "parentBlockIDs": [],
